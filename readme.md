@@ -1,5 +1,5 @@
 #### gp
-This is how I generate passwords.
+This is how I generate passwords (and learn C).
 
 ##### Install
 ```
